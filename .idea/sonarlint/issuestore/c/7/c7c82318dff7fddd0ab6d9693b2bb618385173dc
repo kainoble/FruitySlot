@@ -1,0 +1,29 @@
+
+…
+java:S1192_"IDefine a constant instead of duplicating this literal "firstRun" 3 times.(—íĞãJ$9a72cba4-3770-4f42-ab03-944df7252484
+‚
+java:S1192h"FDefine a constant instead of duplicating this literal "music" 3 times.(˜†«‚J$88b5d3de-bc1e-467e-8ecf-9e5871179070
+
+java:S1192i"FDefine a constant instead of duplicating this literal "sound" 3 times.(§½ïmJ$70aa0f58-3267-4e7c-97ef-eb915bd299da
+“
+java:S1104:"WMake musicPlayer a static final constant or non-public and provide accessors if needed.(‘Úë¾J$699acae5-a7d8-4343-9081-5603c882afbe
+
+java:S1104;"TMake winSound a static final constant or non-public and provide accessors if needed.(¬™×J$6077dfe4-8f13-47c9-9c5e-050c8454a4fe
+›
+java:S1104="ZMake plusMinusSound a static final constant or non-public and provide accessors if needed.(„ù¤ÕùÿÿÿÿJ$25d866da-03c2-4205-85c2-bd715c49261e
+—
+java:S1104>"[Make backgroundSound a static final constant or non-public and provide accessors if needed.(ú†«†J$e9dcccc0-a5ba-4ed0-8f14-b7a4251726df
+	java:S116K"TRename this field "HowToPlay" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†–¼VJ$7281c46f-fb70-4825-b9c2-77801e33e0aa
+“
+java:S3776N"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(¨ŒşÿÿÿÿJ$bb3cd4cd-0846-4e23-a94b-0f1a6d672ef6
+q
+java:S1874º"/Remove this use of "setView"; it is deprecated.(’æ·ëúÿÿÿÿJ$1eca5764-278c-423d-822a-8b4da335aeb0
+^	java:S131²""Add a default case to this switch.(¶ËôìJ$8020912e-e7a9-4a1a-b3b4-b799488b25c1
+z
+java:S1068G"9Remove this unused "isAutoRotationEnabled" private field.(³¬÷úÿÿÿÿJ$20bc2b47-d360-4fa2-8fc1-3ff016e153bd
+r
+java:S1068H"6Remove this unused "autoRotationButton" private field.(£á«÷J$4aaf1cf7-b549-4a1c-8ad7-fc4297cba898
+p
+java:S1068I"4Remove this unused "rotationAnimator" private field.(™Æè‰J$e9cd8815-23cb-4b49-98cf-842c7aca78f7
+r
+java:S1068J"1Remove this unused "rotationCount" private field.(ºöÚşÿÿÿÿJ$97b9367c-d70e-4327-ad7e-947e320580df

@@ -1,0 +1,9 @@
+
+m	java:S116"SRename this field "MainSlot" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ûà¼Úûÿÿÿÿ
+j	java:S116"PRename this field "Coins" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îŒÅøÿÿÿÿ
+
+java:S1186“"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(‰©àúÿÿÿÿ
+?
+java:S2140")Use "java.util.Random.nextInt()" instead.(½—êú
+6	java:S131&""Add a default case to this switch.(ìúÇV
+6	java:S1315""Add a default case to this switch.(¤“ÒU

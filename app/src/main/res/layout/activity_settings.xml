@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="305dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="200dp"
+        android:layout_marginTop="50dp"
+        android:layout_marginEnd="200dp"
+        android:background="@drawable/frame4"
+        android:contentDescription="@string/settings_background"
+        android:importantForAccessibility="no">
+
+        <ImageView
+            android:id="@+id/close"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentEnd="true"
+            android:layout_marginStart="25dp"
+            android:layout_marginTop="50dp"
+            android:layout_marginEnd="30dp"
+            android:background="@drawable/close"
+            android:contentDescription="@string/close_image_button"
+            android:importantForAccessibility="no" />
+
+        <ImageView
+            android:id="@+id/music_on"
+            android:layout_width="85dp"
+            android:layout_height="48dp"
+            android:layout_alignParentEnd="true"
+            android:layout_marginStart="100dp"
+            android:layout_marginTop="95dp"
+            android:layout_marginEnd="50dp"
+            android:background="@drawable/switch_on"
+            android:contentDescription="@string/music_on_button"
+            android:importantForAccessibility="no"
+            android:padding="2dp" />
+
+
+        <ImageView
+            android:id="@+id/music_off"
+            android:layout_width="85dp"
+            android:layout_height="48dp"
+            android:layout_alignParentEnd="true"
+            android:layout_marginTop="95dp"
+            android:layout_marginEnd="50dp"
+            android:background="@drawable/switch_off"
+            android:contentDescription="@string/music_off_button"
+            android:importantForAccessibility="no"
+            android:visibility="invisible" />
+
+        <ImageView
+            android:id="@+id/sounds_on"
+            android:layout_width="85dp"
+            android:layout_height="48dp"
+            android:layout_alignParentEnd="true"
+            android:layout_marginStart="100dp"
+            android:layout_marginTop="150dp"
+            android:layout_marginEnd="50dp"
+            android:background="@drawable/switch_on"
+            android:contentDescription="@string/sounds_on_button"
+            android:importantForAccessibility="no" />
+
+        <ImageView
+            android:id="@+id/sounds_off"
+            android:layout_width="85dp"
+            android:layout_height="48dp"
+            android:layout_alignParentEnd="true"
+            android:layout_marginTop="150dp"
+            android:layout_marginEnd="50dp"
+            android:background="@drawable/switch_off"
+            android:contentDescription="@string/sounds_off_button"
+            android:importantForAccessibility="no"
+            android:visibility="invisible" />
+
+
+    </RelativeLayout>
+</RelativeLayout>

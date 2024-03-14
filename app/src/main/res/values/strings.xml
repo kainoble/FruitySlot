@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">777 Magic</string>
+    <string name="win_message">YOU WON!</string>
+
+    <string name="coins">coins</string>
+    <string name="text_amount">500,000</string>
+    <string name="play_amount_image_button">play amount</string>
+    <string name="spin_button">Spin</string>
+    <string name="minus_image_button">minus</string>
+    <string name="energy_text">5</string>
+    <string name="container_data">container</string>
+    <string name="spinning_data">spinning data"</string>
+    <string name="plus_image_button">plus</string>
+    <string name="settings_image_button">settings</string>
+    <string name="energy_background">background\n</string>
+    <string name="energy_amount" />
+
+    <string name="settings_background">settings</string>
+    <string name="close_image_button">close</string>
+    <string name="music_on_button">music on</string>
+    <string name="music_off_button">music_off</string>
+    <string name="sounds_on_button">sounds on</string>
+    <string name="sounds_off_button">sounds_off</string>
+    <string name="spinner_item">items</string>
+
+    <string name="facebook_app_id">1092004032144119</string>
+
+</resources>
